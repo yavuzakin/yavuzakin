@@ -1,4 +1,4 @@
-### Hi there, I'm Yavuz 👋
+<h1>Hi there 👋, I'm Yavuz</h1>
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
