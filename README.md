@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Yavuz</h1>
 <p align="center">Currently improving myself on backend development with node.js</p>
-<h3 align="left">Technologies:</h3>
-<p align="left"> 
+<h3 align="center">Technologies and Tools:</h3>
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="30" height="30"/> </a>
 <a href="https://expressjs.com/" target="_blank"> <img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" alt="expressjs" width="30" height="30"/> </a>
@@ -16,13 +16,15 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a>
-  
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/yavuzakin/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/> </a>
-
-<h3 align="left">Tools:</h3>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/> </a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a>
+</p>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/yavuzakin/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/> </a>
+</p>
+
+
 <!--
 **yavuzakin/yavuzakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
